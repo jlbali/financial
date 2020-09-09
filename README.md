@@ -38,4 +38,12 @@ Siempre asegurarse que en el prompt aparezca (env).
 
 - SparkContext es para RDDs en general... SparkSession es para DataFrames.
 
+- Problemas con grpcio.
+
+Correr en el env:
+
+pip install --upgrade pip
+
+python -m pip install --upgrade setuptools
+
 
