@@ -11,4 +11,4 @@ spyder
 plotly
 dash
 statsmodels
-
+yfinance
